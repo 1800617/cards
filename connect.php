@@ -1,9 +1,9 @@
 <?php
 function connect_db() {
     $servername = "localhost";
-    $username = "a1800617";
-    $password = "byGEID73k";
-    $dbname = "a1800617";
+    $username = "andra";
+    $password = "password";
+    $dbname = "andra";
     
     // Create connection
     
