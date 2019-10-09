@@ -44,7 +44,7 @@ if($_SESSION['username'] == 'username') {
  print("<input type=\"text\" name=\"country\">");
  print("<br>");
  print("");
- print("<input type=\"submit\" name=\"submit\" value=\"Save\" >");
+ print("<input type=\"submit\" name=\"submit\" value=\"Motherfucker\" >");
  print("</form>");
  print("</html>");
  mysqli_close($conn);
